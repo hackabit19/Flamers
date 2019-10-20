@@ -19,8 +19,9 @@ The ipynb file- [DataAnalysis] contains the analysis of textual data or the info
      
      ______________________________________________________________________________________________________________________
      
-These links contain the final Jupyter Notebook on Google Collab.
+These links contain the **final** Jupyter Notebook on Google Collab.
 
 **Notebook link:** https://drive.google.com/open?id=1w-hwquWq4Xl5MtDYPZhtrvctDLhCoyPX
 
 **Data:** https://drive.google.com/open?id=1tSQrbXJ4dz-39xHSPYli3ePYZzKFl0T3
+*Note that, the dataset is under a license which prevents it from unauthorized sharing. It is provided here only for reference and must not be shared. Access will be removed after the hack is over.*
